@@ -8,7 +8,7 @@
       </div>
     </div>
 
-    <div class="bg-white rounded-xl shadow-md p-6 mt-8">
+    <div class="card card-pad rounded-xl shadow-md p-6 mt-8">
       <div class="flex items-center justify-between mb-4">
         <h2 class="text-2xl font-semibold text-gray-800">จัดการผู้ใช้งาน</h2>
         <button

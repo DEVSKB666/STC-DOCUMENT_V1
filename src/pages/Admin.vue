@@ -4,7 +4,7 @@
       <h2 class="text-2xl mt-3 font-semibold">Admin</h2>
       <span class="badge">Local-only settings</span>
     </div>
-    <div class="card card-pad">
+    <div class="card card-pad shadow-md">
       <div class="flex items-center justify-between mb-4">
         <p class="text-gray-600 mb-4">Manage users (localStorage only).</p>
         <button class="btn-primary" @click="reset">รีเซ็ตข้อมูล</button>

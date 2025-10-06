@@ -3,7 +3,7 @@
     <div class="card card-pad w-full max-w-md">
       <div class="flex items-center gap-2 mb-4">
         <span class="inline-flex items-center justify-center h-9 w-9 rounded-xl bg-brand-400 text-gray-900 font-bold">S</span>
-        <h2 class="text-xl font-semibold">Create account</h2>
+        <h2 class="text-xl font-semibold">สร้างบัญชี</h2>
       </div>
       <form @submit.prevent="submit" class="space-y-4">
         <div>

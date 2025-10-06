@@ -6,7 +6,7 @@
     <div class="flex flex-col h-full">
       <div class="p-4 border-b border-gray-100">
         <div class="p-3 bg-yellow-50 text-yellow-700 rounded-xl text-sm border border-yellow-100">
-            STC Document
+            ยินดีต้อนรับ : Admin
         </div>
       </div>
 
@@ -37,7 +37,7 @@ const links = [
   { name: 'ส่งเอกสาร', to: '/documents' },
   { name: 'ผู้ใช้งาน', to: '/users' },
   { name: 'แก้ไขข้อมูลส่วนตัว', to: '/profile' },
-  { name: 'Admin', to: '/admin' },
+  { name: 'แอดมิน', to: '/admin' },
 ]
 
 // ✅ ปิดเฉพาะบน mobile

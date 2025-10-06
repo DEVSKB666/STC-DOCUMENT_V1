@@ -1,9 +1,9 @@
 <template>
-  <div class="min-h-screen flex items-center justify-center bg-brand-50 p-4">
+  <div class="min-h-screen flex items-center justify-center bg-gray-50 p-4">
     <div class="card card-pad w-full max-w-md">
       <div class="flex items-center gap-2 mb-4">
         <span class="inline-flex items-center justify-center h-9 w-9 rounded-xl bg-brand-400 text-gray-900 font-bold">S</span>
-        <h2 class="text-xl font-semibold">Sign in</h2>
+        <h2 class="text-xl font-semibold">เข้าสู่ระบบ</h2>
       </div>
       <form @submit.prevent="submit" class="space-y-4">
         <div>

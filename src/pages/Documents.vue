@@ -8,7 +8,7 @@
       </div>
     </div>
     <!-- Card Form -->
-    <div class="card card-pad mb-6">
+    <div class="card card-pad mb-6 shadow-md">
       <form @submit.prevent="upload" class="space-y-4">
         <div>
           <label

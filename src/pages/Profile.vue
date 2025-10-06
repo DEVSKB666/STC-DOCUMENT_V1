@@ -7,7 +7,7 @@
         แก้ไขข้อมูลส่วนตัว
       </div>
     </div>
-    <div class="card card-pad">
+    <div class="card card-pad shadow-md">
       <div class="grid md:grid-cols-2 gap-4">
         <div>
           <label class="block text-sm text-gray-500">Username</label>
