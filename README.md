@@ -1,4 +1,4 @@
-# STC Document — Vue 3 + Tailwind (White–Yellow) — Converted from PHP
+# STC Document — Vue 3 + Tailwind
 Frontend-only build (no backend). Data persists via localStorage.
 
 ## Tech
