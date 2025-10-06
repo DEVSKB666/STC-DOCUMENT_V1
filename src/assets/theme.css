@@ -1,0 +1,37 @@
+/* src/assets/theme.css */
+
+/* ✅ โหลดฟอนต์จาก Google */
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@400;500;600&display=swap');
+
+/* ✅ ฟอนต์หลักทั่วโปรเจกต์ */
+:root {
+  --font-family-base: 'Prompt', ui-sans-serif, system-ui, sans-serif;
+  --font-weight-base: 500;
+}
+
+/* ✅ ตั้งค่าฐานทั้งหมด */
+html, body {
+  font-family: var(--font-family-base);
+  font-weight: var(--font-weight-base);
+  color: #1f2937; /* text-gray-800 */
+  background-color: #fffefc; /* ขาวอมเหลืองนิด ๆ */
+}
+
+/* ✅ ตัวอย่างคลาสเสริมที่ใช้บ่อย */
+.brand-bg {
+  background-color: #fef3c7; /* เหลืองอ่อน */
+}
+.brand-text {
+  color: #b45309; /* เหลืองเข้ม */
+}
+.brand-btn {
+  background-color: #fbbf24;
+  color: #111;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  transition: all 0.2s;
+}
+.brand-btn:hover {
+  background-color: #f59e0b;
+}
