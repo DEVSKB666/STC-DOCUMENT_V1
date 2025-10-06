@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen flex items-center justify-center bg-gray-50 p-4">
+  <div class="flex items-center justify-center bg-gray-50 p-4">
     <div class="card card-pad w-full max-w-md">
       <div class="flex items-center gap-2 mb-4">
         <span class="inline-flex items-center justify-center h-9 w-9 rounded-xl bg-brand-400 text-gray-900 font-bold">S</span>

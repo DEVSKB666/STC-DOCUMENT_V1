@@ -77,7 +77,7 @@
 
     <footer class="shadow-lg border-yellow-200 bg-white py-4">
       <div
-        class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-2 text-sm text-gray-600"
+        class="mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-2 text-sm text-gray-600"
       >
         <p></p>
         <p class="text-yellow-600 font-medium">
